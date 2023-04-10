@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a second-year student majoring in Information Technology at Brawijaya University.<br><br>DATA PASSIONISTA<br>🔭 I’m currently learning about Data Science and Analytics<br>👯 Also interested in full-stack web development with Django<br>🌱 Might also try product design (sorry for my mix of interest hehe)<br>⚡ Fun, energetic, collaborative, and friendly.
+I'm currently a second-year student majoring in Information Technology at Brawijaya University.<br><br>DATA PASSIONISTA<br>🔭 I’m currently learning about Data Science and Analytics<br>👯 Also interested in full-stack web development with Django and IOS Mobile Development<br>⚡ Fun, energetic, collaborative, and friendly.
 
 
 ## 🌐 Socials:
