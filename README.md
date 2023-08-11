@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a second-year student majoring in Information Technology at Brawijaya University.<br><br>TECH PASSIONISTA<br>⚡ Fun, energetic, collaborative, and friendly.
+Undergrad student majoring in Information Technology at Brawijaya University.<br><br>TECH PASSIONISTA<br>⚡ Fun, energetic, collaborative, and friendly.
 
 
 ## 🌐 Socials:
