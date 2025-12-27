@@ -1,5 +1,5 @@
 # 💫 About Me:
-Undergrad student majoring in Information Technology at Brawijaya University.<br><br>TECH PASSIONISTA<br>⚡ Fun, energetic, collaborative, and friendly.
+Bachelors in Information Technology at Brawijaya University, Indonesia.<br><br>⚡ Fun, energetic, collaborative, and friendly.
 
 
 ## 🌐 Socials:
